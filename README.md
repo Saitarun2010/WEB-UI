@@ -1,5 +1,6 @@
 
-
+                                                        *WEB-UI APPLICATION*
+                                                        --------------------
 
 To build the requested application, we will use React with functional components and hooks to create a modern and responsive UI. The application will leverage Deep-gram’s streaming transcription API, Tailwind CSS for styling, and Jest for unit tests. Below is a detailed plan:
 
